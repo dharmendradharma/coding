@@ -1,0 +1,1 @@
+cmd_/home/dharma/coding/kernprac/first_ko.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/dharma/coding/kernprac/first_ko.ko /home/dharma/coding/kernprac/first_ko.o /home/dharma/coding/kernprac/first_ko.mod.o
